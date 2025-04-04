@@ -293,35 +293,39 @@
       <h2>Equipo - Integrantes y Funciones</h2>
       <div class="team">
         <div class="member">
-          <img src="https://via.placeholder.com/80x80.png?text=R" alt="Foto de Rossiel">
+          <img src="https://sdmntpreastus2.oaiusercontent.com/files/00000000-b45c-51f6-97c6-e7e88571a1f9/raw?se=2025-04-04T02%3A02%3A15Z&sp=r&sv=2024-08-04&sr=b&scid=a12bc5a8-1204-5912-8059-a02075dbe2bd&skoid=ac1d63ad-0c69-4017-8785-7a50eb04382c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-03T23%3A03%3A37Z&ske=2025-04-04T23%3A03%3A37Z&sks=b&skv=2024-08-04&sig=ksmO1nddzTcKl7xoLe8Vf1qBlY16wMso0%2BM5AZnpzNw%3D" alt="Foto de Rossiel">
           <h4>Rossiel</h4>
           <p>Coordinación general y supervisión del proyecto.</p>
         </div>
         <div class="member">
-          <img src="https://via.placeholder.com/80x80.png?text=M" alt="Foto de Maria">
+          <img src="https://sdmntpreastus2.oaiusercontent.com/files/00000000-98a4-51f6-9085-2823483aab96/raw?se=2025-04-04T01%3A59%3A34Z&sp=r&sv=2024-08-04&sr=b&scid=66e3435b-a849-5527-b883-6b5f9c38abd8&skoid=ac1d63ad-0c69-4017-8785-7a50eb04382c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-03T16%3A09%3A13Z&ske=2025-04-04T16%3A09%3A13Z&sks=b&skv=2024-08-04&sig=Bnu2TyD5qo2Mf4FsWDoGAHT7%2BUa4UsdJYvNqT07zGl8%3D" alt="Foto de Maria">
           <h4>Maria</h4>
           <p>Diseño del sistema eólico y análisis de datos.</p>
         </div>
         <div class="member">
-          <img src="https://via.placeholder.com/80x80.png?text=M" alt="Foto de Marisol">
+          <img src="https://th.bing.com/th/id/OIP.wXmV6zsmK1SSsvbLYxAcwQHaHa?w=195&h=194&c=7&r=0&o=5&pid=1.7" alt="Foto de Marisol">
           <h4>Marisol</h4>
           <p>Programación en Arduino y control de sensores.</p>
         </div>
         <div class="member">
-          <img src="https://via.placeholder.com/80x80.png?text=S" alt="Foto de Samuel">
+          <img src="https://sdmntpreastus2.oaiusercontent.com/files/00000000-c38c-51f6-aa7a-3899e13b60dc/raw?se=2025-04-04T02%3A03%3A02Z&sp=r&sv=2024-08-04&sr=b&scid=f3e75395-51d9-57f2-b9ed-be92253b4139&skoid=ac1d63ad-0c69-4017-8785-7a50eb04382c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-03T21%3A39%3A37Z&ske=2025-04-04T21%3A39%3A37Z&sks=b&skv=2024-08-04&sig=EEv4TSMkQL6fJ0LW0LLloZrQy5%2B5GhjbZhN/2h8GbUY%3D" alt="Foto de Samuel">
           <h4>Samuel</h4>
           <p>Integración del sistema eléctrico y pruebas de campo.</p>
         </div>
         <div class="member">
-          <img src="https://via.placeholder.com/80x80.png?text=A" alt="Foto de Johanser">
+          <img src="https://sdmntpreastus2.oaiusercontent.com/files/00000000-ca00-51f6-83b9-e6e92afad2b4/raw?se=2025-04-04T01%3A58%3A53Z&sp=r&sv=2024-08-04&sr=b&scid=833c170a-b3ba-5c28-ba6f-1005b0234863&skoid=ac1d63ad-0c69-4017-8785-7a50eb04382c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-03T16%3A12%3A16Z&ske=2025-04-04T16%3A12%3A16Z&sks=b&skv=2024-08-04&sig=13V4oLeO3u0uIx/XBq9G5oLGbLslpvMHAvS/eDtgJiQ%3D" alt="Foto de Johanser">
           <h4>Johanser</h4>
           <p>Optimización del consumo energético y modelado.</p>
         </div>
         <div class="member">
-          <img src="https://via.placeholder.com/80x80.png?text=A" alt="Foto de Andonis">
+          <img src="https://sdmntpreastus2.oaiusercontent.com/files/00000000-b184-51f6-8762-91cb40b8f094/raw?se=2025-04-04T02%3A01%3A27Z&sp=r&sv=2024-08-04&sr=b&scid=040b6aca-a4c7-5477-a333-051a11ba7e11&skoid=ac1d63ad-0c69-4017-8785-7a50eb04382c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-03T21%3A18%3A03Z&ske=2025-04-04T21%3A18%3A03Z&sks=b&skv=2024-08-04&sig=azhcj91msL3%2Bg%2ByGftx3pj6NU4fFjbZtGM01BpsWmwg%3D" alt="Foto de Andonis">
           <h4>Adonis</h4>
           <p>Documentación y presentación de resultados.</p>
         </div>
+        <div class="member">
+            <img src="https://th.bing.com/th/id/OIP.nRaecf633vPkodgbuufMwAAAAA?w=115&h=180&c=7&r=0&o=5&pid=1.7" alt="Foto de angel">
+            <h4>angel</h4>
+            <p>CREADOR DE ESTILOS Y AFICHET</p>
       </div>
     </section>
     <!-- APLICACIÓN -->
