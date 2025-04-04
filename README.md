@@ -1,5 +1,3 @@
-PAGINA WEB
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
@@ -37,8 +35,10 @@ PAGINA WEB
     header::after {
       content: "";
       position: absolute;
-      top: 0; left: 0;
-      width: 100%; height: 100%;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
       background: rgba(0, 0, 0, 0.4);
     }
     header h1 {
@@ -324,11 +324,11 @@ PAGINA WEB
           <p>Documentación y presentación de resultados.</p>
         </div>
         <div class="member">
-            <img src="https://th.bing.com/th/id/OIP.nRaecf633vPkodgbuufMwAAAAA?w=115&h=180&c=7&r=0&o=5&pid=1.7" alt="Foto de angel">
-            <h4>angel</h4>
-            <p>CREADOR DE ESTILOS Y AFICHET</p>
+          <img src="https://th.bing.com/th/id/OIP.nRaecf633vPkodgbuufMwAAAAA?w=115&h=180&c=7&r=0&o=5&pid=1.7" alt="Foto de angel">
+          <h4>angel</h4>
+          <p>CREADOR DE ESTILOS Y AFICHET</p>
+        </div>
       </div>
-    </div>
     </section>
     <!-- APLICACIÓN -->
     <section id="aplicacion">
@@ -365,4 +365,5 @@ PAGINA WEB
   <footer>
     <p>© 2025 WINDLIGHT. Todos los derechos reservados.</p>
   </footer>
-
+</body>
+</html>
