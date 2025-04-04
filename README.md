@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
@@ -363,4 +363,3 @@
   <footer>
     <p>© 2025 WINDLIGHT. Todos los derechos reservados.</p>
   </footer>
-
