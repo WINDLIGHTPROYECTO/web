@@ -1,4 +1,4 @@
-<H1>pagina web de grupo WINDLIGHT</H1>
+PAGINA WEB
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -365,3 +365,4 @@
   <footer>
     <p>© 2025 WINDLIGHT. Todos los derechos reservados.</p>
   </footer>
+
