@@ -327,6 +327,7 @@
             <h4>angel</h4>
             <p>CREADOR DE ESTILOS Y AFICHET</p>
       </div>
+    </div>
     </section>
     <!-- APLICACIÓN -->
     <section id="aplicacion">
